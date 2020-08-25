@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>датасет+</folder>
+	<filename>130.jpg</filename>
+	<path>C:\Users\mbond\Desktop\датасет+\130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>145</ymin>
+			<xmax>711</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>
